@@ -1,0 +1,11 @@
+# Deployment checklist
+- [ ] Install Node.js LTS
+- [ ] Run `npm install`
+- [ ] Run `npm run dev` and inspect all pages
+- [ ] Run `npm run build`
+- [ ] Create a new GitHub repository owned by your team
+- [ ] Push this source code to that repository
+- [ ] Import the repository into Vercel
+- [ ] Test the deployed URL on desktop and mobile
+- [ ] Replace demo data with a secure backend before real student data is used
+- [ ] Obtain authorized APAAR/AICTE integration access before claiming official verification

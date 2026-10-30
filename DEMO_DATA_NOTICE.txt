@@ -1,0 +1,5 @@
+DEMO DATA NOTICE
+All names, IDs, institutions and counts bundled in this project are synthetic examples.
+The ID format check is not an official APAAR validation.
+The local lookup is not an official credential verification.
+Do not enter real student data into this demo deployment.
